@@ -1,1 +1,8 @@
-# Advanced_Physics_Laboratory
+# Measurement of the critical temperature of a superconductor via resistance measurements
+
+Superconductors are solid materials that, below a given critical temperature, exhibit an electrical resistance exactly nil (e.g. not small but exactly zero!) and perfect diamagnetism (Meissner effect). The critical temperature Tc is a specific property of the material. Since the discovery of superconductivity by Kammerlingh Onnes nel 1911, many different classes of superconductors have been identified: metals (Hg, Al), alloys (NbTa) and ceramic compounds (BiSCCO, YBCO). The ceramic superconductors have Tc~100 K and can be easily cooled down with liquid nitrogen. In this experiment the critical temperature of small bars of YBCO or BiSCCO will be determined by measuring the variation of electrical resistance with temperature.
+
+EXPERIMENTAL SET-UP:
+The sample is mounted inside the vacuum chamber of a cryostat cooled down by a cryocooler as shown in the scheme below. The sample is housed within an aluminum box thermally anchored to a metallic block fixed to the cold finger of a cryocooler, provided with a platinum thermometer (Pt100) and a heater.
+The temperature of the sample is measured using a second Pt100 mounted very close to the sample. Its resistance is measured using a three-wire bridge.
+Since the electrical resistance of the ceramic bar is small (fraction of an Ohm) and there are contact resistances, the drop in resistance occurring at the superconducting transition is expected to be small. It is then necessary to amplify the voltage signal across the sample SC driven by a constant DC current using a differential amplifier.
